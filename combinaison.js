@@ -1,4 +1,3 @@
-const factorielle = require("./factorielle.js");
 const operation = require("./factorielle.js");
 
 function combinaison(n, p) {
