@@ -1,0 +1,23 @@
+{
+  "name": "testfactorielle",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "factorielle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heidevdav/testExportProg.git"
+  },
+  "keywords": [
+    "combinaison"
+  ],
+  "author": "jessica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heidevdav/testExportProg/issues"
+  },
+  "homepage": "https://github.com/heidevdav/testExportProg#readme"
+}
