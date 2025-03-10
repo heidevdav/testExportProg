@@ -6,3 +6,6 @@ function factorielle (n){
     return acc;
 }
 
+module.exports = {
+    'factorielle' : factorielle
+}
